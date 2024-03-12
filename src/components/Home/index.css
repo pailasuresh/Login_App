@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: white;
+}
+.sub-main {
+  background-image: linear-gradient(#2b2c49,#b5b9ff);
+  min-height: 50vh;
+  min-width: 50vw;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 11px;
+}

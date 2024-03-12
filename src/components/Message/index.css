@@ -1,0 +1,12 @@
+/* Write your CSS here */
+h1 {
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: white;
+  
+}
+.img {
+  width: 275px;
+  border-radius: 14px;
+}
